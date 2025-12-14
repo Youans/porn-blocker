@@ -5,8 +5,6 @@ Chrome Store : https://chromewebstore.google.com/detail/free-porn-blocker/gcmccn
 Porn Blocker is a **completely free** Chrome extension that helps you take back control of your browsing.  
 It blocks access to adult websites and harmful search queries, replacing them with **motivational quotes** and **reflection prompts** to keep you focused and positive.  
 
-![Blocked Page Example](ss.png)
-
 ---
 
 ## ✨ Features
