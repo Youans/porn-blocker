@@ -1,4 +1,4 @@
-# 🚫 FREE Porn Blocker – Stay Strong 💪
+# 🚫 Free Porn Blocker – Stay Strong 💪
 
 Chrome Store : https://chromewebstore.google.com/detail/free-porn-blocker/gcmccnojejbaedheeodcobnonanojmbc
 
