@@ -1,4 +1,6 @@
-# 🚫 Porn Blocker – Stay Strong 💪
+# 🚫 FREE Porn Blocker – Stay Strong 💪
+
+Chrome Store : https://chromewebstore.google.com/detail/free-porn-blocker/gcmccnojejbaedheeodcobnonanojmbc
 
 Porn Blocker is a **completely free** Chrome extension that helps you take back control of your browsing.  
 It blocks access to adult websites and harmful search queries, replacing them with **motivational quotes** and **reflection prompts** to keep you focused and positive.  
@@ -20,7 +22,9 @@ It blocks access to adult websites and harmful search queries, replacing them wi
 ## 📥 Installation
 
 ### From Chrome Web Store
-*(Coming soon — once published!)*  
+
+https://chromewebstore.google.com/detail/free-porn-blocker/gcmccnojejbaedheeodcobnonanojmbc
+
 > Porn Blocker will always be **free to install and use**.  
 
 ---
